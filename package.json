@@ -1,6 +1,9 @@
 {
-  "name": "your-component-library",
+  "name": "@Abbie0218/table",
   "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Abbie0218"
+  },
   "description": "A React component library with Material-UI table",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
