@@ -2,7 +2,8 @@
   "name": "@Abbie0218/table",
   "version": "1.0.0",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Abbie0218"
+    "registry": "https://npm.pkg.github.com/Abbie0218",
+    "access":"public"
   },
   "description": "A React component library with Material-UI table",
   "main": "dist/index.js",
@@ -39,8 +40,5 @@
     "table"
   ],
   "author": "Your Name",
-  "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  }
+  "license": "MIT"
 }
